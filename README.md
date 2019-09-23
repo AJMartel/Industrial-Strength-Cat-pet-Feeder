@@ -25,4 +25,6 @@ Emails photos before and after feeding to verify operation
 Take picture on demand
 Web server displays current photo of bowl on web site
 
+This feeder is actually designed as a subpart for an outdoor feral cat feeding system. The outdoor feeding system contains two of these feeders for redundancy in case of a failure.The outdoor system is raccoon proof. It is designed to be operated unattended for long periods of time. I will link the larger outdoor system at a later date.
+
 
