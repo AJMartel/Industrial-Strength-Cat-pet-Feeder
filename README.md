@@ -1,6 +1,7 @@
 # Source Code for Industrial Strength Cat Feeder
 
 This is the source code for the Industrial Strength Cat Feeder
+https://www.youtube.com/watch?v=O389UU_VG1o
 
 You can find the instructions to build this project on instructables at:
 https://www.instructables.com/preview/E1V45BQK0KUGT4G/
@@ -26,5 +27,3 @@ Take picture on demand
 Web server displays current photo of bowl on web site
 
 This feeder is actually designed as a subpart for an outdoor feral cat feeding system. The outdoor feeding system contains two of these feeders for redundancy in case of a failure.The outdoor system is raccoon proof. It is designed to be operated unattended for long periods of time. I will link the larger outdoor system at a later date.
-
-
