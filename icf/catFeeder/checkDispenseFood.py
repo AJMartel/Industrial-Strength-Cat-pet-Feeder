@@ -23,8 +23,8 @@ def updateFdrDispensedQty(amt):
   f= open(fileName, 'r+')
   qty = float(f.readline())
   qty = qty + amt
-  f.truncate()
   f.seek(0)
+  f.truncate()
   f.write(str(qty))
   f.close()
 
