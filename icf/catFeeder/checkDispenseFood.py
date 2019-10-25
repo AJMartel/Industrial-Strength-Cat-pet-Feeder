@@ -54,15 +54,15 @@ time2 = convertTo24Hour(secondFeedTime, secondFeedAMPM)
 time3 = convertTo24Hour(thirdFeedTime, thirdFeedAMPM)
 
 
-#1600 revolutions = 1 cup of food
-#cfMotor.py 1600
+#1072 revolutions = 1 cup of food
+#cfMotor.py 
 amount1 = float(firstFeedAmmount)
 amount2 = float(secondFeedAmmount)
 amount3 = float(thirdFeedAmmount)
 
-adjAmt1 = 1600 * amount1
-adjAmt2 = 1600 * amount2
-adjAmt3 = 1600 * amount3
+adjAmt1 = 1072 * amount1
+adjAmt2 = 1072 * amount2
+adjAmt3 = 1072 * amount3
 
 x = datetime.datetime.now()
 print(x)
