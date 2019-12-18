@@ -4,7 +4,7 @@ This is the source code for the Industrial Strength Cat Feeder
 https://www.youtube.com/watch?v=O389UU_VG1o
 
 You can find the instructions to build this project on instructables at:
-https://www.instructables.com/preview/E1V45BQK0KUGT4G/
+https://www.instructables.com/id/Industrial-Strength-Cat-pet-Feeder/
 
 You can find the 3d printing files on thingiverse at:
 https://www.thingiverse.com/thing:3869594

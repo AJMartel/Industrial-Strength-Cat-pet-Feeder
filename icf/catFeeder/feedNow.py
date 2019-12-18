@@ -9,8 +9,8 @@ def updateFdrDispensedQty(amt):
   f= open(fileName, 'r+')
   qty = float(f.readline())
   qty = qty + amt
-  f.truncate()
   f.seek(0)
+  f.truncate()
   f.write(str(qty))
   f.close()
 
@@ -24,7 +24,7 @@ def feedAndPhoto(amount):
 #cfMotor.py 1600
 amount1 = float(0.25)
 
-adjAmt1 = 1600 * amount1
+adjAmt1 = 1072 * amount1
 
 x = datetime.datetime.now()
 print(x)
